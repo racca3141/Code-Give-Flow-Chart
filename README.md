@@ -1,4 +1,4 @@
-# Code-Give-Flow-Chart
+# Code-Given-Flow-Chart
 
 Lab 4b: Code Given Flow Chart
 
